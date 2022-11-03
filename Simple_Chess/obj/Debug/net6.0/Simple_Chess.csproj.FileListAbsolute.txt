@@ -1,0 +1,15 @@
+E:\Cursos\Curso de C#\Material PDFs\Seção 12 - Projeto Jogo de Xadrez\Simple_Chess\Simple_Chess\bin\Debug\net6.0\Simple_Chess.exe
+E:\Cursos\Curso de C#\Material PDFs\Seção 12 - Projeto Jogo de Xadrez\Simple_Chess\Simple_Chess\bin\Debug\net6.0\Simple_Chess.deps.json
+E:\Cursos\Curso de C#\Material PDFs\Seção 12 - Projeto Jogo de Xadrez\Simple_Chess\Simple_Chess\bin\Debug\net6.0\Simple_Chess.runtimeconfig.json
+E:\Cursos\Curso de C#\Material PDFs\Seção 12 - Projeto Jogo de Xadrez\Simple_Chess\Simple_Chess\bin\Debug\net6.0\Simple_Chess.dll
+E:\Cursos\Curso de C#\Material PDFs\Seção 12 - Projeto Jogo de Xadrez\Simple_Chess\Simple_Chess\bin\Debug\net6.0\Simple_Chess.pdb
+E:\Cursos\Curso de C#\Material PDFs\Seção 12 - Projeto Jogo de Xadrez\Simple_Chess\Simple_Chess\obj\Debug\net6.0\Simple_Chess.csproj.AssemblyReference.cache
+E:\Cursos\Curso de C#\Material PDFs\Seção 12 - Projeto Jogo de Xadrez\Simple_Chess\Simple_Chess\obj\Debug\net6.0\Simple_Chess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\Curso de C#\Material PDFs\Seção 12 - Projeto Jogo de Xadrez\Simple_Chess\Simple_Chess\obj\Debug\net6.0\Simple_Chess.AssemblyInfoInputs.cache
+E:\Cursos\Curso de C#\Material PDFs\Seção 12 - Projeto Jogo de Xadrez\Simple_Chess\Simple_Chess\obj\Debug\net6.0\Simple_Chess.AssemblyInfo.cs
+E:\Cursos\Curso de C#\Material PDFs\Seção 12 - Projeto Jogo de Xadrez\Simple_Chess\Simple_Chess\obj\Debug\net6.0\Simple_Chess.csproj.CoreCompileInputs.cache
+E:\Cursos\Curso de C#\Material PDFs\Seção 12 - Projeto Jogo de Xadrez\Simple_Chess\Simple_Chess\obj\Debug\net6.0\Simple_Chess.dll
+E:\Cursos\Curso de C#\Material PDFs\Seção 12 - Projeto Jogo de Xadrez\Simple_Chess\Simple_Chess\obj\Debug\net6.0\refint\Simple_Chess.dll
+E:\Cursos\Curso de C#\Material PDFs\Seção 12 - Projeto Jogo de Xadrez\Simple_Chess\Simple_Chess\obj\Debug\net6.0\Simple_Chess.pdb
+E:\Cursos\Curso de C#\Material PDFs\Seção 12 - Projeto Jogo de Xadrez\Simple_Chess\Simple_Chess\obj\Debug\net6.0\Simple_Chess.genruntimeconfig.cache
+E:\Cursos\Curso de C#\Material PDFs\Seção 12 - Projeto Jogo de Xadrez\Simple_Chess\Simple_Chess\obj\Debug\net6.0\ref\Simple_Chess.dll
