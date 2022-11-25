@@ -14,7 +14,13 @@ try
 
         Console.Write("\n- Posição de origem: ");
         Posicao origem = Tela.lerPosicaoXadrez().toPosicao();
-        Console.Write("- Posição de destino: ");
+
+        bool[,] posicoesPossiveis = partida.tab.peca(origem).movimentosPossiveis();
+        Console.Clear();
+        Tela.imprimirTabuleiro(partida.tab, posicoesPossiveis);
+       
+
+        Console.Write("\n- Posição de destino: ");
         Posicao destino = Tela.lerPosicaoXadrez().toPosicao();
 
         partida.executaMovimento(origem, destino);
