@@ -12,9 +12,7 @@ try
         try
         {
             Console.Clear();
-            Tela.imprimirTabuleiro(partida.tab);
-            Console.Write("\n- Turno: " + partida.turno);
-            Console.Write("\n- Aguardado jogada de: " + partida.jogadorAtual);
+            Tela.imprimirPartida(partida);
 
             Console.Write("\n- Posição de origem: ");
             Posicao origem = Tela.lerPosicaoXadrez().toPosicao();
