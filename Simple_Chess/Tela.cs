@@ -12,6 +12,10 @@ namespace Simple_Chess
             imprimirPecasCapturadas(partida);
             Console.Write("\n- Turno: " + partida.turno);
             Console.Write("\n- Aguardado jogada de: " + partida.jogadorAtual);
+            Console.WriteLine();
+            if (partida.xeque){
+                Console.WriteLine("XEQUE!");
+            }
         }
 
         public static void imprimirPecasCapturadas(PartidaDeXadrez partida)

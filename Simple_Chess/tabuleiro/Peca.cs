@@ -27,6 +27,11 @@ namespace tabuleiro
             qteMovimentos++;
         }
 
+        public void decrementarQteMovimentos()
+        {
+            qteMovimentos--;
+        }
+
         // Verifica se há movimentos possiveis para determinada peça na 
         // matriz de movimentos possíveis.
         public bool existeMovimentosPossiveis()
