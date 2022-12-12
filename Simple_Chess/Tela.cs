@@ -11,10 +11,19 @@ namespace Simple_Chess
             imprimirTabuleiro(partida.tab);
             imprimirPecasCapturadas(partida);
             Console.Write("\n- Turno: " + partida.turno);
-            Console.Write("\n- Aguardado jogada de: " + partida.jogadorAtual);
-            Console.WriteLine();
-            if (partida.xeque){
-                Console.WriteLine("XEQUE!");
+            if (!partida.terminada)
+            {
+                Console.Write("\n- Aguardado jogada de: " + partida.jogadorAtual);
+                Console.WriteLine();
+                if (partida.xeque)
+                {
+                    Console.WriteLine("XEQUE!");
+                }
+            }
+            else
+            {
+                Console.WriteLine("\n*** XEQUEMATE ***");
+                Console.WriteLine("- Vencedor: " + partida.jogadorAtual);
             }
         }
 
