@@ -14,8 +14,8 @@ namespace xadrez
             return "T";
         }
 
-        // Verifica se um rei pode se mover para determinada posição.
-        // Retorna se a posição está nula ou se há uma peça de cor oposta ao rei.
+        // Verifica se uma torre pode se mover para determinada posição.
+        // Retorna se a posição está nula ou se há uma peça de cor oposta.
         private bool podeMover(Posicao pos)
         {
             Peca p = tab.peca(pos);
